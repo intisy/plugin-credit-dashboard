@@ -1,5 +1,5 @@
 {
-  "name": "credit-dashboard",
+  "name": "plugin-credit-dashboard",
   "version": "1.0.0",
   "description": "Credit and billing dashboard plugin for OpenCode and Claude Code, with Firebase sync.",
   "main": "dist/index.js",

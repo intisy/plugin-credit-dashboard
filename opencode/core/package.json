@@ -1,0 +1,8 @@
+{
+  "name": "core-dashboard",
+  "version": "1.0.0",
+  "description": "Core logic for tracking quotas, sessions, and credits",
+  "main": "src/index.js",
+  "type": "module",
+  "dependencies": {}
+}

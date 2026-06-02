@@ -1,0 +1,14 @@
+{
+  "name": "claude-credit-dashboard",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "scripts/dashboard.js",
+  "claudeHub": {
+    "daemon": {
+      "script": "scripts/dashboard.js",
+      "port": 3456,
+      "healthCheckUrl": "http://127.0.0.1:3456/api/status",
+      "runtime": "node"
+    }
+  }
+}

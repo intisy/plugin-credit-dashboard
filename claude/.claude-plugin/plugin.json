@@ -1,0 +1,18 @@
+{
+  "name": "claude-credit-dashboard",
+  "description": "Credit usage dashboard for Claude Code - session costs, token analytics, quota tracking, and Firebase sync across devices",
+  "version": "1.0.0",
+  "author": {
+    "name": "intisy"
+  },
+  "homepage": "https://github.com/intisy/claude-credit-dashboard",
+  "repository": "https://github.com/intisy/claude-credit-dashboard",
+  "license": "MIT",
+  "keywords": [
+    "dashboard",
+    "credits",
+    "quota",
+    "analytics",
+    "cost-tracking"
+  ]
+}

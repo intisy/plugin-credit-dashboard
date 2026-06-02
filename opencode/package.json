@@ -1,0 +1,29 @@
+{
+    "name":  "opencode-credit-dashboard",
+    "version":  "1.0.0",
+    "description":  "Credit usage dashboard plugin for OpenCode - analytics, quotas, Firebase sync",
+    "main":  "core/dashboard-core.js",
+    "type":  "module",
+    "license":  "MIT",
+    "author":  "intisy",
+    "repository":  {
+                       "type":  "git",
+                       "url":  "git+https://github.com/intisy/opencode-credit-dashboard.git"
+                   },
+    "homepage":  "https://github.com/intisy/opencode-credit-dashboard#readme",
+    "keywords":  [
+                     "opencode",
+                     "plugin",
+                     "dashboard",
+                     "credits",
+                     "quota",
+                     "analytics"
+                 ],
+    "engines":  {
+                    "node":  "\u003e=20.0.0"
+                },
+    "files":  [
+                  "core/dashboard-core.js",
+                  "README.md"
+              ]
+}
